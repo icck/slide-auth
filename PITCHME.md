@@ -25,6 +25,11 @@ Komori Issei
 
 ![alt](assets/zei_shopping_mynumber.png)
 
++++
+- WHAT YOU ARE（自身を提示して、相手にアイデンティティを確認させる）
+![alt](assets/face.png)
+![alt](assets/simon.png)
+
 ---
 ### 認可（Authorization）
 ---
