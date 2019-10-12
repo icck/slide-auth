@@ -82,17 +82,17 @@ Komori Issei
 - Twitterの鍵を渡す
 
 ---
-TL;DR
-認証
-本人性の確認（Authentication）
-認可
-リソースに対する利用権限の付与（Authorization）
+### TL;DR
+- 認証
+  - 本人性の確認（Authentication）
+- 認可
+  - リソースに対する利用権限の付与（Authorization）
 
 ---
 ### 認証基盤はどうやって実装するのか
-- AWS    : Amazon Cognito
-  - User Pools           : 認証、認可、OAuthなどもフルマネージド
-  - Federated Identities : フロント側でs3やDynamoDBを操作などSDK使用のためのアクセスキーとシークレットキーを発行
-- GCP    : FireBase Authentications
-- Other  : Auth0
-- Other2 : 自力で実装
+- AWS    : Amazon Cognito |
+  - User Pools           : 認証、認可、OAuthなどもフルマネージド |
+  - Federated Identities : フロント側でs3やDynamoDBを操作などSDK使用のためのアクセスキーとシークレットキーを発行 |
+- GCP    : FireBase Authentications |
+- Other  : Auth0 |
+- Other2 : 自力で実装 |
