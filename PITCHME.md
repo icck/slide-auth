@@ -68,3 +68,15 @@ Komori Issei
 #### 運転免許証＝本人確認＋運転の権限付与
 ![alt](assets/menkyo_old_man.png)
 
+---
+### 認可に基づく認証はある？
+- ans）ある |
++++
+#### 車の鍵を持っている＝XXXさんである
+![alt](assets/oauth.png)
+
++++
+#### OAuth
+- Facebookの鍵を渡す
+- Googleの鍵を渡す
+- Twitterの鍵を渡す
