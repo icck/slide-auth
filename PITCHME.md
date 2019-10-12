@@ -20,7 +20,8 @@ Komori Issei
 
 +++
 
-- 証明書の確認
+- 例）証明書の確認
+- 純粋な認証：確認だけ
 
 ![alt](assets/zei_shopping_mynumber.png)
 
