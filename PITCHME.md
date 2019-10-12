@@ -52,8 +52,12 @@ Komori Issei
 +++
 #### イメージ）チケットの発行
 ![alt](assets/ticket_shopping_man.png)
+
+---
+### 認証せずに認可は可能？
+- ans）可能 |
 +++
-#### 誰かが購入済みのチケットを貰う＝移譲されてもOK
+#### 誰かが購入済みのチケットを貰う＝移譲される
 ![alt](assets/ticket_dafuya_money.png)
 
 ---
