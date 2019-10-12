@@ -76,7 +76,7 @@ Komori Issei
 ![alt](assets/oauth.png)
 
 +++
-### OAuth認証 ※OAuthは認可の仕組み
+#### OAuth認証 ※OAuthは認可の仕組み
 - Facebookの鍵を渡す
 - Googleの鍵を渡す
 - Twitterの鍵を渡す
