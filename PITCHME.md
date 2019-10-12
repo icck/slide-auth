@@ -20,7 +20,7 @@ Komori Issei
 
 +++
 
-- 例）証明書の確認
+- イメージ）証明書の確認
 - 純粋な認証：確認だけ
 
 ![alt](assets/zei_shopping_mynumber.png)
@@ -45,4 +45,13 @@ Komori Issei
 
 ---
 ### 認可（Authorization）
+- とある条件に対して、リソースのアクセス権限を与えること
++++
+- イメージ）鍵の発行、チケットの発行
+![alt](assets/job_kagiya.png)
+![alt](assets/ticket_shopping_man.png)
++++
+#### 誰かが購入済みのチケットを貰う＝移譲されてもOK
+![alt](assets/ticket_dafuya_money.png)
+
 ---
