@@ -39,6 +39,10 @@ Komori Issei
 ![alt](assets/computer_password.png)
 ![alt](assets/mlitifactor.png)
 
++++
+
+#### 認証＝APIとかリソースとか権限とか関係ない
+
 ---
 ### 認可（Authorization）
 ---
