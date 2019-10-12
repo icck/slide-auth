@@ -26,16 +26,19 @@ Komori Issei
 ![alt](assets/zei_shopping_mynumber.png)
 
 +++
-- WHAT YOU ARE（自身を提示して、相手にアイデンティティを確認させる）
+- WHAT YOU ARE
+- （自身を提示）
 ![alt](assets/face.png)
 ![alt](assets/simon.png)
 
 +++
-- WHAT YOU HAVE（その人だけが持っているものを提示）
+- WHAT YOU HAVE
+- （その人だけが持っているものを提示）
 ![alt](assets/reji_kaiinsyou_smartphone.png)
 
 +++
-- WHAT YOU KNOW（その人だけが知っていることを提示）
+- WHAT YOU KNOW
+- （その人だけが知っていることを提示）
 ![alt](assets/computer_password.png)
 ![alt](assets/mlitifactor.png)
 
