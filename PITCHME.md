@@ -66,5 +66,5 @@ Komori Issei
 - これ以外をちゃんと認識しないと、世の中の全てがこのパターンになり認識が密結合してしまう
 +++
 #### 運転免許証＝本人確認＋運転の権限付与
-![alt](assets/syainsyou_woman.png)
+![alt](assets/menkyo_old_man.png)
 
