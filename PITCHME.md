@@ -98,5 +98,5 @@ Komori Issei
 - Other2 : 自力で実装 |
 
 ---
-<a href=”https://jft2019.jaws-ug.jp”><img src=”https://jft2019.jaws-ug.jp/wp-content/uploads/2019/09/badge_staff.jpg” /></a>
+![alt](assets/jawsfesta.png)
 https://jft2019.jaws-ug.jp/
