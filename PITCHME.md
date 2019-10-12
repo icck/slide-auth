@@ -100,3 +100,7 @@ Komori Issei
 ---
 ![alt](assets/jawsfesta.png)
 https://jft2019.jaws-ug.jp/
+
++++
+![alt](assets/fb_staff-1.jpg)
+
