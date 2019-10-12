@@ -47,10 +47,10 @@ Komori Issei
 ### 認可（Authorization）
 - とある条件に対して、リソースのアクセス権限を与えること
 +++
-- イメージ）鍵の発行
+#### イメージ）鍵の発行
 ![alt](assets/job_kagiya.png)
 +++
-- イメージ）チケットの発行
+#### イメージ）チケットの発行
 ![alt](assets/ticket_shopping_man.png)
 +++
 #### 誰かが購入済みのチケットを貰う＝移譲されてもOK
