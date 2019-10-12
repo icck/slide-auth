@@ -30,6 +30,15 @@ Komori Issei
 ![alt](assets/face.png)
 ![alt](assets/simon.png)
 
++++
+- WHAT YOU HAVE（その人だけが持っているものを提示）
+![alt](assets/reji_kaiinsyou_smartphone.png)
+
++++
+- WHAT YOU KNOW（その人だけが知っていることを提示）
+![alt](assets/computer_password.png)
+![alt](assets/mlitifactor.png)
+
 ---
 ### 認可（Authorization）
 ---
