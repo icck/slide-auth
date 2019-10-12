@@ -61,3 +61,10 @@ Komori Issei
 ![alt](assets/ticket_dafuya_money.png)
 
 ---
+### 認証に基づく認可
+- 多くの人が考える認証と認可のパターン
+- これ以外をちゃんと認識しないと、世の中の全てがこのパターンになり認識が密結合してしまう
++++
+#### 運転免許証＝本人確認＋運転の権限付与
+![alt](assets/syainsyou_woman.png)
+
