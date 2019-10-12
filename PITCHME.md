@@ -19,7 +19,7 @@ Komori Issei
 - 相手が誰（何）であるか確認すること
 +++
 ###  証明書の確認
-![alt](asets/zei_shopping_mynumber.png)
+![alt](assets/zei_shopping_mynumber.png)
 
 ---
 ### 認可（Authorization）
