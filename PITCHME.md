@@ -17,8 +17,11 @@ Komori Issei
 ---
 ### 認証（Authentication）
 - 相手が誰（何）であるか確認すること
+
 +++
-###  証明書の確認
+
+- 証明書の確認
+
 ![alt](assets/zei_shopping_mynumber.png)
 
 ---
