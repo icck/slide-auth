@@ -98,10 +98,3 @@ Komori Issei
 - Other  : Auth0 |
 - Other2 : 自力で実装 |
 
----
-![alt](assets/jawsfesta.png)
-https://jft2019.jaws-ug.jp/
-
-+++
-![alt](assets/fb_staff-1.jpg)
-
